@@ -124,4 +124,3 @@ This project is open-source and available for learning and educational purposes.
 
 - Thanks to NTI for the learning opportunity and guidance.
 - Inspired by the growing field of Conversational AI and NLP.
-```
