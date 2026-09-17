@@ -1,4 +1,3 @@
-```markdown
 # 🤖 ChatBot_NTI
 
 An intelligent chatbot application built with Python, designed to provide interactive and conversational user experiences.
@@ -33,7 +32,7 @@ This project was built as part of my learning journey in Artificial Intelligence
 
 ## 📂 Project Structure
 
-```
+
 ChatBot_NTI/
 │
 ├── __pycache__/        # Python cache files
@@ -41,9 +40,9 @@ ChatBot_NTI/
 ├── README.md           # Project documentation
 ├── app.py              # Main application entry point
 └── main.py             # Core chatbot logic
-```
 
----
+
+
 
 ## 🚀 Getting Started
 
